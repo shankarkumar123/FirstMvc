@@ -27,7 +27,7 @@
     <p class="text-primary">User Name   <input type="text" class="form-control" name="uname"></p>
     <p class="text-primary"> Password   <input type="password"class="form-control" name="upass" ></p>
      
-     <button type="submit" class="btn btn-success">Login</button>
+     <button type="submit" class="btn btn-success">Sigin in</button>
 
      </pre>
      </div>
